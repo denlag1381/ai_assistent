@@ -1,6 +1,6 @@
 # 🤖 ИИ-ассистент для салона красоты «Кудряшка»
 
-Ссылка:@kdr123456789_bot
+Ссылка на проект: @kdr123456789_bot
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Made with Qwen](https://img.shields.io/badge/Made%20with-Qwen-ff6b6b)](https://qwenlm.github.io/)
